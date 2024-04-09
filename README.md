@@ -2,5 +2,4 @@
 
 ## Demo Purposes
 
-### What camera do you have?
-### Answer : 
+### I'll create a Pull Request in this repository and merge it with the Main branch
